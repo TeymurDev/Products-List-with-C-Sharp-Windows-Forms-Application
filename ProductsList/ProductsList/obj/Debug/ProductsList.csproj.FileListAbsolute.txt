@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ProductsList\ProductsList\bin\Debug\ProductsList.exe.config
+C:\Users\User\source\repos\ProductsList\ProductsList\bin\Debug\ProductsList.exe
+C:\Users\User\source\repos\ProductsList\ProductsList\bin\Debug\ProductsList.pdb
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.ProductsForm.resources
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.Properties.Resources.resources
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.exe
+C:\Users\User\source\repos\ProductsList\ProductsList\obj\Debug\ProductsList.pdb
